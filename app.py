@@ -477,7 +477,7 @@ with gr.Blocks(
         "<center style='margin-top:16px; color: #9ca3af; font-size:0.8rem;'>"
         "AI Document Intelligence System · "
         "BART-large-CNN · DistilBART · MiniLM · RoBERTa · FAISS · "
-        "<a href='https://github.com/sanikamal/genai-huggingface' "
+        "<a href='https://github.com/nipunk15/ai-doc-intelligence' "
         "   style='color:#6366f1;' target='_blank'>GitHub</a>"
         "</center>"
     )
